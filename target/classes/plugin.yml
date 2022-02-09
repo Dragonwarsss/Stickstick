@@ -1,0 +1,10 @@
+name: Sticktick
+version: '1.0-SNAPSHOT'
+main: me.aikyan.sticktick.Sticktick
+api-version: 1.18
+authors: [ Aikyan ]
+description: Retrieve time spent with a stick in hand
+commands:
+  sstime:
+    description: Tell how much time spent holding a stick
+    usage: /sstime
